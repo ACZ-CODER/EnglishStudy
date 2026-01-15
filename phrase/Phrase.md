@@ -4,8 +4,8 @@
 
 | phrase          | chinese translation |
 | --------------- | ------------------- |
-|                 |                     |
-|                 |                     |
+| ALONG           |                     |
+| along the way   | 沿途                |
 | ACCOUNTS        |                     |
 | by all accounts | 总而言之；总之      |
 |                 |                     |
@@ -18,6 +18,19 @@
 |        |                     |
 |        |                     |
 |        |                     |
+
+**C**
+
+| phrase                  | chinese translation    |
+| ----------------------- | ---------------------- |
+| CHEER                   |                        |
+| cheer up                | 恢复活力，提起精神     |
+| CHIP                    |                        |
+| when the chips are down | 当危机关头，在关键时刻 |
+| CHOICE                  |                        |
+| by(for) choice          | 处于自己的选择，凭爱好 |
+
+
 
 **L**
 
@@ -86,6 +99,19 @@
 | SERIES               |                     |
 | a series of          | 一系列，一连串      |
 | in series            | 连续地              |
+
+**T**
+
+| phrase            | chinese translation          |
+| ----------------- | ---------------------------- |
+| TOGETHER          |                              |
+| hold together     | 团结一致，使团结             |
+| go together       | 相配；相恋；互相协调         |
+| TOKEN             |                              |
+| in token of       | 作为...的标志（或象征）      |
+| by the same token | 由于同样的原因，同样的；而且 |
+| TIME              |                              |
+| from time to time | 偶尔                         |
 
 **W**
 
