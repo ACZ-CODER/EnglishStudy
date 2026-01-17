@@ -11,7 +11,7 @@
 | -ance    | -ant       | -ate     |
 | -acy     | -al        | -fy      |
 | -ity     | -istic     |          |
-|          | -ible      |          |
+| -ation   | -ible      |          |
 
  
 
