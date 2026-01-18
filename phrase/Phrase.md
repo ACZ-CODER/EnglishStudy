@@ -43,76 +43,85 @@
 
 **B**
 
-| phrase            | chinese translation        |
-| ----------------- | -------------------------- |
-| **BY**            |                            |
-|                   |                            |
-| BRACE             |                            |
-| brace up          | 振作；重新鼓起勇气         |
-|                   |                            |
-| BRAIN             |                            |
-| brain drain       | 人才外流                   |
-| brain trust       | 专家顾问组                 |
-| beat one's brains | 费劲思考                   |
-| rack one's brains | 绞尽脑汁                   |
-| brain work        | 脑力劳动                   |
-|                   |                            |
-| BRANCH            |                            |
-| branch out        | 扩大业务范围（或研究领域） |
-| branch off        | 走上岔路                   |
+| phrase                | chinese translation            |
+| --------------------- | ------------------------------ |
+| **BY**                |                                |
+|                       |                                |
+| **BRACE**             |                                |
+| **brace up**          | **振作；重新鼓起勇气**         |
+|                       |                                |
+| **BRAIN**             |                                |
+| **brain drain**       | **人才外流**                   |
+| **brain trust**       | **专家顾问组**                 |
+| **beat one's brains** | **费劲思考**                   |
+| **rack one's brains** | **绞尽脑汁**                   |
+| **brain work**        | **脑力劳动**                   |
+|                       |                                |
+| **BRANCH**            |                                |
+| **branch out**        | **扩大业务范围（或研究领域）** |
+| **branch off**        | **走上岔路**                   |
 
 **C**
 
-| phrase                      | chinese translation                        |
-| --------------------------- | ------------------------------------------ |
-|                             |                                            |
-| **CHEER**                   |                                            |
-| **cheer up**                | **恢复活力，提起精神**                     |
-|                             |                                            |
-| **CHIP**                    |                                            |
-| **when the chips are down** | **当危机关头，在关键时刻**                 |
-|                             |                                            |
-| **CHOICE**                  |                                            |
-| **by(for) choice**          | **处于自己的选择，凭爱好**                 |
-|                             |                                            |
-| CLING                       |                                            |
-| cling together              | 黏在一起；互相忠诚                         |
-|                             |                                            |
-| CLOSE                       |                                            |
-| close in (on sb/sth)        | （尤指为了进攻）逼近，靠近                 |
-| close you mind to sth       | 对...拒不考虑                              |
-| bring to a close            | 结束                                       |
-|                             |                                            |
-| CLOSET                      |                                            |
-| come out of the closet      | 公开承认秘密（尤指因耻辱或尴尬保守的秘密） |
+| phrase                      | chinese translation                            |
+| --------------------------- | ---------------------------------------------- |
+|                             |                                                |
+| **CHEER**                   |                                                |
+| **cheer up**                | **恢复活力，提起精神**                         |
+|                             |                                                |
+| **CHIP**                    |                                                |
+| **when the chips are down** | **当危机关头，在关键时刻**                     |
+|                             |                                                |
+| **CHOICE**                  |                                                |
+| **by(for) choice**          | **处于自己的选择，凭爱好**                     |
+|                             |                                                |
+| **CLING**                   |                                                |
+| **cling together**          | **黏在一起；互相忠诚**                         |
+|                             |                                                |
+| **CLOSE**                   |                                                |
+| **close in (on sb/sth)**    | **（尤指为了进攻）逼近，靠近**                 |
+| **close you mind to sth**   | **对...拒不考虑**                              |
+| **bring to a close**        | **结束**                                       |
+|                             |                                                |
+| **CLOSET**                  |                                                |
+| **come out of the closet**  | **公开承认秘密（尤指因耻辱或尴尬保守的秘密）** |
+
+**D**
+
+| phrase    | chinese translation |
+| --------- | ------------------- |
+|           |                     |
+| DETAIL    |                     |
+| in detail | 详细地              |
+|           |                     |
 
 
 
 **F**
 
-| phrase               | chinese translation |
-| -------------------- | ------------------- |
-|                      |                     |
-| FORM                 |                     |
-| in form              | 形式上              |
-| in the form of       | 以...的形式         |
-|                      |                     |
-| FORTUNE              |                     |
-| come into a fortune  | 继承大笔遗产        |
-| tell sb. his fortune | 为某人算命          |
-| try one's fortune    | 碰运气              |
-| make a fortune       | 发财                |
+| phrase                   | chinese translation |
+| ------------------------ | ------------------- |
+|                          |                     |
+| **FORM**                 |                     |
+| **in form**              | **形式上**          |
+| **in the form of**       | **以...的形式**     |
+|                          |                     |
+| **FORTUNE**              |                     |
+| **come into a fortune**  | **继承大笔遗产**    |
+| **tell sb. his fortune** | **为某人算命**      |
+| **try one's fortune**    | **碰运气**          |
+| **make a fortune**       | **发财**            |
 
 
 
 **G**
 
-| phrase                    | chinese translation |
-| ------------------------- | ------------------- |
-|                           |                     |
-| GUIDANCE                  |                     |
-| under the guidance of ... | 在...的引导下       |
-|                           |                     |
+| phrase                        | chinese translation |
+| ----------------------------- | ------------------- |
+|                               |                     |
+| **GUIDANCE**                  |                     |
+| **under the guidance of ...** | **在...的引导下**   |
+|                               |                     |
 
 **L**
 
@@ -134,7 +143,7 @@
 
 **P** 
 
-| **phrase**                      | chinese translation      |
+| **phrase**                      | **chinese translation**  |
 | ------------------------------- | ------------------------ |
 |                                 |                          |
 | **PERFORM**                     |                          |
@@ -149,90 +158,117 @@
 | **PERISH**                      |                          |
 | **perish the thought**          | **没门；想都别想**       |
 |                                 |                          |
-| PERSONAL                        |                          |
-| make personal abuse             | 进行人身攻击             |
-| personal history                | 履历                     |
-| personal effects                | 私有物品                 |
+| **PERSONAL**                    |                          |
+| **make personal abuse**         | **进行人身攻击**         |
+| **personal history**            | **履历**                 |
+| **personal effects**            | **私有物品**             |
 
 **R**
 
 | **phrase**                     | **chinese translation**        |
 | ------------------------------ | ------------------------------ |
+|                                |                                |
 | **RAKE**                       |                                |
 | **rake in**                    | **(尤指轻易地)赚钱**           |
 | **rake up**                    | **旧事重提(常指不愉快的往事)** |
+|                                |                                |
 | **RATE**                       |                                |
 | **at any rate**                | **无论如何；至少**             |
+|                                |                                |
 | **RATIO**                      |                                |
 | **by a ratio of......**        | **根据......的比率**           |
+|                                |                                |
 | **REACH**                      |                                |
 | **reach an agreement**         | **达成共识**                   |
 | **beyond/out of the reach of** | **无法达到**                   |
 | **within one's reach**         | **触手可及**                   |
+|                                |                                |
 | **REACT**                      |                                |
 | **react on/upon ...**          | **对...产生影响**              |
 | **react against**              | **反对，反抗**                 |
+|                                |                                |
 | **REALITY**                    |                                |
 | **in reality**                 | **实际上，事实上**             |
 | **make sth a reality**         | **实现某事**                   |
+|                                |                                |
+| **RECOGNITION**                |                                |
+| **beyond/out of recognition**  | **认不出**                     |
+|                                |                                |
+| **RECOGNIZE**                  |                                |
+| **recognize sb/sth as ...**    | **承认某人/某事为...**         |
+|                                |                                |
+| RECOMMEND                      |                                |
+| recommend doing                | 建议做...                      |
+| recommend sb. to do...         | 建议某人做...                  |
+| recommend for                  | 推荐...受奖（任职）            |
+|                                |                                |
+| RECOVER                        |                                |
+| recover from                   | 从...中恢复                    |
 
 **S**
 
 | **phrase**               | **chinese translation** |
 | ------------------------ | ----------------------- |
+|                          |                         |
 | **SENSE**                |                         |
 | **come to one's senses** | **恢复理性，清醒过来**  |
 | **in a sense**           | **从某种意义上说**      |
 | **make sense**           | **讲得通，言之有理**    |
+|                          |                         |
 | **SEQUENCE**             |                         |
 | **in sequence**          | **依次，逐一**          |
+|                          |                         |
 | **SERIES**               |                         |
 | **a series of**          | **一系列，一连串**      |
 | **in series**            | **连续地**              |
+|                          |                         |
+| SOAK                     |                         |
+| soak up                  | 吸收                    |
+| soak in                  | 渗入                    |
 
 **T**
 
-| **phrase**                 | **chinese translation**          |
-| -------------------------- | -------------------------------- |
-|                            |                                  |
-| **TOGETHER**               |                                  |
-| **hold together**          | **团结一致，使团结**             |
-| **go together**            | **相配；相恋；互相协调**         |
-|                            |                                  |
-| **TOKEN**                  |                                  |
-| **in token of**            | **作为...的标志（或象征）**      |
-| **by the same token**      | **由于同样的原因，同样的；而且** |
-|                            |                                  |
-| **TIME**                   |                                  |
-| **from time to time**      | **偶尔**                         |
-|                            |                                  |
-| TOSS                       |                                  |
-| toss for sth               | 抛硬币以决定某事                 |
-|                            |                                  |
-| TOUCH                      |                                  |
-| keep in touch              | 保持联系                         |
-| out of touch               | 失去联系                         |
-| touch on                   | 涉及，关系到                     |
-| touch up                   | 润色，改进                       |
-|                            |                                  |
-| TREAT                      |                                  |
-| to treat sb./sth. with sth | 用某物治疗某人/某症状            |
-|                            |                                  |
-| TREATY                     |                                  |
-| enter into a treaty with   | 与...缔结条约                    |
-| conclude a treaty          | 订立条约                         |
-|                            |                                  |
+| **phrase**                     | **chinese translation**          |
+| ------------------------------ | -------------------------------- |
+|                                |                                  |
+| **TOGETHER**                   |                                  |
+| **hold together**              | **团结一致，使团结**             |
+| **go together**                | **相配；相恋；互相协调**         |
+|                                |                                  |
+| **TOKEN**                      |                                  |
+| **in token of**                | **作为...的标志（或象征）**      |
+| **by the same token**          | **由于同样的原因，同样的；而且** |
+|                                |                                  |
+| **TIME**                       |                                  |
+| **from time to time**          | **偶尔**                         |
+|                                |                                  |
+| **TOSS**                       |                                  |
+| **toss for sth**               | **抛硬币以决定某事**             |
+|                                |                                  |
+| **TOUCH**                      |                                  |
+| **keep in touch**              | **保持联系**                     |
+| **out of touch**               | **失去联系**                     |
+| **touch on**                   | **涉及，关系到**                 |
+| **touch up**                   | **润色，改进**                   |
+|                                |                                  |
+| **TREAT**                      |                                  |
+| **to treat sb./sth. with sth** | **用某物治疗某人/某症状**        |
+|                                |                                  |
+| **TREATY**                     |                                  |
+| **enter into a treaty with**   | **与...缔结条约**                |
+| **conclude a treaty**          | **订立条约**                     |
+|                                |                                  |
 
 
 
 **V**
 
-| phrase     | chinese translation |
-| ---------- | ------------------- |
-|            |                     |
-| VICE       |                     |
-| vice versa | 反之亦然            |
-|            |                     |
+| phrase         | chinese translation |
+| -------------- | ------------------- |
+|                |                     |
+| **VICE**       |                     |
+| **vice versa** | **反之亦然**        |
+|                |                     |
 
 **W**
 

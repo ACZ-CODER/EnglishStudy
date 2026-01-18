@@ -12,6 +12,8 @@
 | -acy     | -al        | -fy      |
 | -ity     | -istic     |          |
 | -ation   | -ible      |          |
+| -ism     |            |          |
+| -tion    |            |          |
 
  
 
